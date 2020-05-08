@@ -1,4 +1,4 @@
-### Maratona FullCycle 2.0 - Desafio 1
+# Maratona FullCycle 2.0 - Desafio 1
 
 To run this project:
 
